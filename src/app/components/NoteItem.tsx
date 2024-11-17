@@ -3,7 +3,7 @@ import React, { useState, FC } from "react";
 import Image from "next/image";
 import deleteIcon from "../../../public/delete.svg";
 import editIcon from "../../../public/edit.svg";
-import { Note } from "@/types";
+import type { Note } from "@/types";
 
 interface props {
   note: Note;
