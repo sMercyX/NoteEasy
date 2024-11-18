@@ -3,7 +3,7 @@ https://noteeasy-39c0d.web.app/ <br>
 UserName: Guy <br>
 Password: 123
 
-## Cant use project?
+## If cant use npm i
 use npm i --force (because zustand is not stable for react 19  )
 
 ## About Project
